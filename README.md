@@ -1,65 +1,19 @@
-<div align="center">
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&animation=twinkling" width="100%"> </p> <h1 align="center"> Hey there, I'm <span style="color:#7DD3FC;">Unavdeep Singh</span> </h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;BCA+Student;MERN+%2B+Next.js+Enthusiast;Building+Snapgram%2C+E-Commerce+%26+More;Open+to+Work+%F0%9F%9A%80"/> </p> <p align="center"> <img src="https://img.shields.io/github/followers/unavdeep16?style=for-the-badge&logo=github&label=Followers&color=7DD3FC" /> <img src="https://img.shields.io/github/stars/unavdeep16?style=for-the-badge&logo=github&label=Stars&color=7DD3FC" /> <img src="https://komarev.com/ghpvc/?username=unavdeep16&style=for-the-badge&color=7DD3FC"/> <img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=github&logoColor=0b1120"/> </p> <h2 align="center">👨‍💻 About Me</h2> <table align="center"> <tr> <td width="100%" valign="top">
+💻 BCA Student & Full Stack Developer, building with the MERN stack + Next.js.
+🚀 Shipped projects: Snapgram, E-Commerce Website, and Spotify Clone.
+🌱 Working across React, Next.js, Node.js, Express.js, MongoDB & Appwrite.
+🎯 Currently open to Full Stack Developer roles, internships, and collaborations.
+✨ Always chasing the next idea worth building.
+</td> </tr> </table> <h2 align="center">🚀 Featured Projects</h2> <table align="center"> <tr> <td width="33%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Unavdeep%20Singh&fontSize=50&fontColor=0b1120&animation=twinkling&fontAlignY=35&desc=BCA%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
+📱 Snapgram <br/> Full-stack social media app with auth, posts, likes, saved posts & followers. <br/><br/> Live • Code
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Enthusiast;Building+Modern+Web+Applications;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+</td> <td width="33%" valign="top" align="center">
 
-<br/>
+🎵 Spotify Clone <br/> Fully responsive clone of the Spotify website, built for a seamless UX. <br/><br/> Live • Code
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=github&logoColor=0b1120" alt="Open to Work" />
+</td> <td width="33%" valign="top" align="center">
 
-<img src="https://komarev.com/ghpvc/?username=unavdeep16&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views" />
+🛒 E-Commerce Website <br/> Fully responsive e-commerce site with a user-friendly shopping experience. <br/><br/> Live • Code
 
-<img src="https://img.shields.io/github/followers/unavdeep16?label=Followers&style=flat&color=7dd3fc" alt="Followers" />
-
-</div>
-
-<br/>
-
-## 🧑‍💻 Who I Am
-
-```typescript
-const unavdeepSingh = {
-  title: "BCA Student | Full Stack Developer",
-
-  interests: [
-    "Web Development",
-    "Building Full-Stack Applications",
-    "Learning New Technologies"
-  ],
-
-  stack: [
-    "JavaScript",
-    "TypeScript",
-    "Java",
-    "React",
-    "Next.js",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "Appwrite",
-    "Tailwind CSS",
-    "HTML",
-    "CSS",
-    "Git",
-    "GitHub",
-    "Postman"
-  ],
-
-  projects: [
-    "Snapgram",
-    "E-Commerce Website",
-    "Spotify Clone"
-  ],
-
-  status: "Building full-stack apps & leveling up",
-
-  openTo: [
-    "Full Stack Developer roles",
-    "Frontend Developer roles",
-    "Internships",
-    "Collaborations"
-  ]
-};
+</td> </tr> </table> <h2 align="center">🛠️ Tech Stack</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,nextjs,tailwind,nodejs,express,mongodb,appwrite,git,github,postman&perline=15"/> </p> <h2 align="center">📈 GitHub Analytics</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=unavdeep16&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=7DD3FC&text_color=c9d1d9" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unavdeep16&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=c9d1d9" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=unavdeep16&hide_border=true&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=7DD3FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=unavdeep16&bg_color=0D1117&color=7DD3FC&line=7DD3FC&point=FFFFFF&area=true&area_color=7DD3FC&hide_border=true"/> </p> <h2 align="center">🏆 Trophies</h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=unavdeep16&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=7"/> </p> <h2 align="center">🌐 Let's Connect</h2> <p align="center"> <a href="https://www.linkedin.com/in/unavdeep-singh-0206b733b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:unavdeep.singh161@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <p align="center"> See you in the next commit 💙 </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=140&section=footer&animation=twinkling"/> </p>
